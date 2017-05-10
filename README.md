@@ -1,7 +1,7 @@
 # The-2nd-assignment
 The 2nd assignment
 
-/*java中equals方法和“==”的区别：
+java中equals方法和“==”的区别：
 equals 方法是 java.lang.Object 类的方法。
 有两种用法说明：
 （1）对于字符串变量来说，使用“==”和“equals()”方法比较字符串时，其比较方法不同。
@@ -70,4 +70,4 @@ System.out.println(n1.equals(n3));//结果是false 因对象内容不一样，�
 }
 }
 这是Integer的实例，如果是其他的比如Double、Character、Float等也一样。
-（3）注意：对于String(字符串)、StringBuffer(线程安全的可变字符序列)、StringBuilder(可变字符序列)这三个类作进一步的说明。*/
+（3）注意：对于String(字符串)、StringBuffer(线程安全的可变字符序列)、StringBuilder(可变字符序列)这三个类作进一步的说明。
